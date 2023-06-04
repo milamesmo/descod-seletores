@@ -1,0 +1,36 @@
+div {
+
+    display: inline-block;
+
+    border: 1px solid rgb(255, 255, 255);
+
+    width: 100px;
+
+    height: 100px;
+
+    margin-bottom: -4px;
+    margin-right: -4px;
+   
+}
+
+.redone {
+    background-color: #ff0000;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.redtwo {
+    background-color: #ff0000;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.blue {
+    background-color: #00e1ff;
+}
+
+.green {
+    background-color: #00ff6a;
+}
+
+.yellow {
+    background-color: #f5f103;
+}
